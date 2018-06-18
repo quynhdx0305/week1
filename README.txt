@@ -1,7 +1,7 @@
 
 # Project 1 - *Flick*
 
-**Flick** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+**Fick** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
 Time spent: **X** hours spent in total
 
@@ -9,7 +9,7 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+* [X] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 * [X] List item with the [RecyclerView](https://guides.codepath.com/android/Using-the-RecyclerView).
 * [X] For each movie displayed, user can see the following details:
   * [X] Title, Poster Image, Overview (Portrait mode)
@@ -38,7 +38,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Video.mp4 in github
+<img src='https://i.imgur.com/z464Gnb.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
