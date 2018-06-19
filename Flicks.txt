@@ -1,0 +1,14 @@
+﻿1.Genymotion.......ok
+2.API documentation... ok
+3.RecyclerView......... ok
+4.Picassa................ ok
+5.Retrofix............. ok
+6.Glide.................. ok
+7.Glide + RecyclerView....... ok
+8.Retrofix + RecyclerView..... ok
+9.Link+................................ ok
+10.refesh............... ok
+
+11.landcap
+12.carview
+13.new activity + youtube
